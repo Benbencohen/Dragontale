@@ -41,7 +41,7 @@ export const SUPPLY_CHAIN_HUBS_DB: Record<SourcingHubId, SourcingHub> = {
       'בניין פנורמה (דרך בן-צבי)',
     ],
     targetAudienceHe:
-      'מעצבי שמלות כלה וערב, מותגי בגדי ים עצמאיים, מעצבי קז'ואל, תדמיתנים, הפקות תיאטרון וטלוויזיה וסטודנטים משנקר ובצלאל.',
+      'מעצבי שמלות כלה וערב, מותגי בגדי ים עצמאיים, מעצבי קזואל, תדמיתנים, הפקות תיאטרון וטלוויזיה וסטודנטים משנקר ובצלאל.',
     commercialModelHe:
       'שילוב בין ייבוא סיטונאי למעצבים (B2B) למכירה קמעונאית לפי מטר בחנויות המתמחות ובאונליין.',
     materialSpecialtiesHe: [
@@ -119,7 +119,7 @@ export const SUPPLY_CHAIN_HUBS_DB: Record<SourcingHubId, SourcingHub> = {
       'כלכלה פנים-מגזרית ענפה המותאמת ללוח השנה היהודי (שיאי ביקוש לפני חגי תשרי, פסח ועונת החתונות) ולתפירה מותאמת אישית.',
     materialSpecialtiesHe: [
       'בדי צמר משובחים וקטיפת משי (סטראקעס)',
-      'אריגי ז'קארד פרחוני (שחור לימות החול וצבעוני לשבתות לאדמו"רים)',
+      'אריגי זקארד פרחוני (שחור לימות החול וצבעוני לשבתות לאדמו״רים)',
       'בדים אטומים ונושמים לשמלות צנועות (ויסקוזה, כותנה ושיפון עם בטנה)',
       'בדי נדוניה, בטנות ומערכות רכיסה של 36 לולאות וכפתורים מצופי בד',
     ],
@@ -127,7 +127,7 @@ export const SUPPLY_CHAIN_HUBS_DB: Record<SourcingHubId, SourcingHub> = {
       {
         nameHe: 'דסקל טקסטיל',
         streetOrZoneHe: 'ציר רבי עקיבא, בני ברק',
-        specialtyHe: 'אריגי ז'קארד פרחוניים, בדי בעקיטשע, קטיפת משי וצמר משובח',
+        specialtyHe: 'אריגי זקארד פרחוניים, בדי בעקיטשע, קטיפת משי וצמר משובח',
         supportedFabrics: ['hasidic_wool_velvet_jacquard', 'silk_bridal_tulle'],
       },
       {
@@ -157,7 +157,7 @@ export const SUPPLY_CHAIN_HUBS_DB: Record<SourcingHubId, SourcingHub> = {
       {
         nameHe: 'טאובר מרקוס',
         streetOrZoneHe: 'רבי עקיבא, בני ברק',
-        specialtyHe: 'יבוא בדי יוקרה לחייטים, צמר אנגלי וז'קארד',
+        specialtyHe: 'יבוא בדי יוקרה לחייטים, צמר אנגלי וזקארד',
         supportedFabrics: ['hasidic_wool_velvet_jacquard', 'cotton_ata_drill'],
       },
       {
