@@ -47,7 +47,7 @@ export const EMBROIDERY_PATTERNS_DB: Record<EmbroideryTraditionId, EmbroideryPat
   palestinian_tatreez: {
     id: 'palestinian_tatreez',
     nameHe: 'רקמת צלב פלסטינית ותך מונח מאחז (אדום, שחור וזהב)',
-    originHe: 'בית לחם, בית ג'אלה ועזה (שנות ה-50 ואחרי 1967)',
+    originHe: "בית לחם, בית ג'אלה ועזה (שנות ה-50 ואחרי 1967)",
     colorsHex: ['#b91c1c', '#090d16', '#eab308'],
     addedWeightGrams: 165,
     addedCostILS: 440,
@@ -161,7 +161,7 @@ export const ARCHETYPES_DB: Record<ArchetypeId, GarmentArchetype> = {
     nameHe: 'מודל "משכית" – קוטור אתני מדברי ("מעיל מדבר" / "עין גדי")',
     nameEn: 'Maskit Desert Couture (Desert Coat & Ein Gedi Dress)',
     era: '1954–1994 | תחייה מ-2014',
-    foundersOrDesigners: ['רות דיין', 'פיני לייטרסדורף', 'נאורה ורשבסקי', 'ג'ורג' ואלברט קשי', 'שרון טל'],
+    foundersOrDesigners: ['רות דיין', 'פיני לייטרסדורף', 'נאורה ורשבסקי', 'גורג ואלברט קשי', 'שרון טל'],
     sociologicalSector: 'אופנת עילית ישראלית מקורית, אליטה תרבותית וייצוא יוקרה בינלאומי',
     defaultFabricId: 'linen_galilee',
     defaultAnatomicalZone: 'full_body_drape',
@@ -374,8 +374,8 @@ export const ARCHETYPES_DB: Record<ArchetypeId, GarmentArchetype> = {
     canonicalFeaturesHe: [
       'קפוטה / בעקיטשע: בגב תפרים בצורת שני חצאי קשתות היוצאים מקפל השרוול ושני כיסים פנימיים נסתרים',
       'בחזית הקפוטה 6 כפתורים מצופים באותו בד – 3 לרכיסה ו-3 לנוי',
-      'סטראקעס בעקיטשע לאדמו"רים: עיטור פסי קטיפת משי בקצוות השרוולים, בחזית ובצווארון, ונרכס במערכת של 36 לולאות',
-      'אופציית "קאפטן ירושלמי" (כתונת פסים / געלע קאפטן) וז'קארד פרחוני שחור לימות החול או צבעוני לשבת',
+      'סטראקעס בעקיטשע לאדמורים: עיטור פסי קטיפת משי בקצוות השרוולים, בחזית ובצווארון, ונרכס במערכת של 36 לולאות',
+      'אופציית קאפטן ירושלמי (כתונת פסים / געלע קאפטן) וזקארד פרחוני שחור לימות החול או צבעוני לשבת',
     ],
     historicalContextHe:
       'מערכת סימנים קשיחה המסמנת שייכות חצרות, מעמד רוחני והבחנה בין קודש לחול, המשמרת לבוש מפולין וטרנסילבניה בבדי צמר, קטיפת משי וז'קארד פרחוני חרף האקלים הישראלי.',
@@ -499,7 +499,7 @@ export const ARCHETYPES_DB: Record<ArchetypeId, GarmentArchetype> = {
     nameHe: 'מודל Smart Casual / הייטק ישראלי (יוקרה שקטה ואנטי-פורמליות)',
     nameEn: 'Israeli High-Tech Smart Casual (T-Shirt + Soft Tailored Jacket)',
     era: 'עשור שלישי של המאה ה-21',
-    foundersOrDesigners: ['תרבות הסטארט-אפ התל-אביבית', 'מעצבי קז'ואל עירוניים'],
+    foundersOrDesigners: ['תרבות הסטארט-אפ התל-אביבית', 'מעצבי קזואל עירוניים'],
     sociologicalSector: 'מעמד ההייטק, היזמים והמנהלים בישראל',
     defaultFabricId: 'cotton_jersey',
     defaultAnatomicalZone: 'torso_upper',
@@ -509,7 +509,7 @@ export const ARCHETYPES_DB: Record<ArchetypeId, GarmentArchetype> = {
     laborComplexityHours: 5.0,
     ornamentWeightGrams: 30,
     canonicalFeaturesHe: [
-      'טי-שירט מבד ג'רסי משובח מתחת לז'קט מחויט רך (דחיית החולצה המכופתרת מתחת לז'קט שחור המזוהה עם עורכי דין)',
+      'טי-שירט מבד גרסי משובך מתחת לגקט רך (דחיית החולצה המכופתרת מתחת לזקט שחור המזוהה עם עורכי דין)',
       'מכנסיים מחויטים בגזרה נינוחה ואלסטית המשולבים עם סניקרס',
       'מותאם למעבר תכוף בין חום ולחות בחוץ למיזוג אוויר אינטנסיבי במשרדים',
       'שילוב בין המורשת החלוצית הלא-מתאמצת לבין יוקרה שקטה גלובלית',
