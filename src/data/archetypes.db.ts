@@ -528,7 +528,7 @@ export const ARCHETYPES_DB: Record<ArchetypeId, GarmentArchetype> = {
       },
       {
         panelId: 'hightech_soft_blazer',
-        nameHe: 'ז'קט מחויט רך (ללא בטנה קשיחה)',
+        nameHe: 'זקט מחויט רך (ללא בטנה קשיחה)',
         role: 'back_bodice',
         svgPath: 'M 130 25 L 215 25 L 210 165 L 135 165 Z',
         uvBounds: { uMin: 0.52, vMin: 0.1, uMax: 0.88, vMax: 0.66 },
