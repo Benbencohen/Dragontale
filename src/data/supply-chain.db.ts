@@ -48,7 +48,7 @@ export const SUPPLY_CHAIN_HUBS_DB: Record<SourcingHubId, SourcingHub> = {
       'לייקרות עבות ומודפסות לבגדי ים וריקוד',
       'תחרות צרפתיות ומחורזות ורשתות אשליה לשמלות כלה',
       'טול משי, סאטן ארמני ושיפון-לייקרה',
-      'בדי כותנה, פשתן טבעי, דריל, חאקי וקנבס לקולקציות קז'ואל',
+      'בדי כותנה, פשתן טבעי, דריל, חאקי וקנבס לקולקציות קזואל',
     ],
     shops: [
       {
@@ -72,7 +72,7 @@ export const SUPPLY_CHAIN_HUBS_DB: Record<SourcingHubId, SourcingHub> = {
       {
         nameHe: 'נייס בדים (Nice Badim)',
         streetOrZoneHe: 'נחלת בנימין, תל אביב',
-        specialtyHe: 'לייקרות לבגדי ים, סריגי ג'רסי, דריל וקנבס',
+        specialtyHe: 'לייקרות לבגדי ים, סריגי גרסי, דריל וקנבס',
         supportedFabrics: ['gottex_spandex_lycra', 'cotton_jersey', 'cotton_ata_drill'],
       },
       {
