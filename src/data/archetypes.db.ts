@@ -38,7 +38,7 @@ export const EMBROIDERY_PATTERNS_DB: Record<EmbroideryTraditionId, EmbroideryPat
   bedouin_negev: {
     id: 'bedouin_negev',
     nameHe: 'אריגה ורקמה בדואית גיאומטרית מצפון הנגב',
-    originHe: 'צפון הנגב ומפעל האריגה במגדל העמק (ג'ורג' ואלברט קשי)',
+    originHe: "צפון הנגב ומפעל האריגה במגדל העמק (ג'ורג' ואלברט קשי)",
     colorsHex: ['#991b1b', '#d97706', '#111827'],
     addedWeightGrams: 140,
     addedCostILS: 380,
