@@ -77,7 +77,7 @@ export const FABRICS_DB: Record<FabricId, FabricPhysicsProperties> = {
 
   cotton_jersey: {
     id: 'cotton_jersey',
-    nameHe: 'כותנה סרוגה וג'רסי (Cotton Jersey)',
+    nameHe: 'כותנה סרוגה וגרסי (Cotton Jersey)',
     nameEn: 'Combed Cotton & Elastic Jersey',
     category: 'natural_plant',
     arealWeightGsm: 180,
@@ -99,7 +99,7 @@ export const FABRICS_DB: Record<FabricId, FabricPhysicsProperties> = {
     costPerMeterILS: 45,
     primarySourcingHub: 'nahalat_binyamin_tlv',
     causalExplanationHe:
-      'עמוד השדרה של המלתחה הישראלית והאנטי-פורמליות של ההייטק. מעניק מגע רך, אווריריות, גמישות ונוחות במעבר החד בין חללים ממוזגים לחום החיצוני (מורשת מפעלי לודז'יה, טריקו אקשטיין ואסיב).',
+      'עמוד השדרה של המלתחה הישראלית והאנטי-פורמליות של ההייטק. מעניק מגע רך, אווריריות, גמישות ונוחות במעבר החד בין חללים ממוזגים לחום החיצוני (מורשת מפעלי לודזיה, טריקו אקשטיין ואסיב).',
     colorHex: '#e2e8f0',
     secondaryColorHex: '#94a3b8',
     textureMapPaths: {
@@ -249,7 +249,7 @@ export const FABRICS_DB: Record<FabricId, FabricPhysicsProperties> = {
 
   hasidic_wool_velvet_jacquard: {
     id: 'hasidic_wool_velvet_jacquard',
-    nameHe: 'צמר, קטיפת משי וז'קארד פרחוני (שחור/צבעוני)',
+    nameHe: 'צמר, קטיפת משי וזקארד פרחוני (שחור/צבעוני)',
     nameEn: 'Heavy Wool, Silk Velvet & Hasidic Floral Jacquard',
     category: 'heritage_heavy',
     arealWeightGsm: 380,
